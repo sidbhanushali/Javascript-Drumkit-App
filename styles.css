@@ -4,7 +4,12 @@ html {
 
 body {
   text-align: center;
-  background: linear-gradient(rgb(167, 189, 214), rgb(0, 79, 168))
+  background: linear-gradient(rgb(167, 189, 214), rgb(0, 79, 168));
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+ 
   
 }
 
