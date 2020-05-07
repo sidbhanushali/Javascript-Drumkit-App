@@ -5,4 +5,4 @@ A responsive Javascript webapp drumkit - Click or tap the buttons or press on yo
 
 
 
-!(app-demo)[https://i.imgur.com/ShLE5AU.png]
+![app-demo](https://i.imgur.com/ShLE5AU.png)
