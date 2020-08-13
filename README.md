@@ -23,11 +23,11 @@ A responsive Javascript web app drumkit - Click or tap the buttons or press on y
 
   
 
-- **HTML 5**: node framework to handle routes and make server
+- **HTML 5**
 
-- **CSS 3**: communicate with mongoDB Atlas Server and create DB schema
+- **CSS 3**
 
-- **Javascript** allows mongodb to store sessions: so user doesn't get log out
+- **Javascript** 
 
 - **glitch:** website deployment
 
