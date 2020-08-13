@@ -19,7 +19,7 @@ A responsive Javascript web app drumkit - Click or tap the buttons or press on y
 - add touch, click and button press functionality 
 - update readme and put deploy old project
 
-## **languages technologies used**
+## **languages and technologies used**
 
   
 
